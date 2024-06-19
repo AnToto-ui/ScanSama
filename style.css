@@ -181,3 +181,18 @@ img.banierescan{
         gap: 20%;
     }
 }
+@media screen and (max-width:400px) 
+{
+    img.banierescan{
+        width: 100%;
+    }
+    .slider-item h2{
+        font-size: 7px;
+    }
+    div.contenu{
+        padding: 4% 10%;
+    }
+    ul{
+        gap: 10%;
+    }
+}
